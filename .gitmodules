@@ -1,0 +1,3 @@
+[submodule "learn_goleveldb"]
+	path = learn_goleveldb
+	url = git@github.com:ztteng/learn_goleveldb.git
