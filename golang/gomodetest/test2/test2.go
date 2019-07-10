@@ -2,7 +2,7 @@ package test2
 
 import (
 	"fmt"
-	"test1"
+	"github.com/ztteng/learn/golang/gomodetest/test1"
 )
 
 func main() {
